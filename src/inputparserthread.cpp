@@ -77,9 +77,9 @@ void InputParserThread::run() {
                         emit removeFirstPoint(-1);
                     else if(cmd == "refresh")
                         emit refresh();
-                    else if(cmd == "auto_x_range")
+                    else if(cmd == "auto_xrange")
                         emit autoXRange();
-                    else if(cmd == "auto_y_range")
+                    else if(cmd == "auto_yrange")
                         emit autoYRange();
                     else if(cmd == "quit") {
                         stop_ = true;

@@ -18,8 +18,8 @@ Once RTPlot is launched, it waits for commands from stdin. Here is the list of c
 | auto_refresh on/off period | Enable or disable the call to refresh every (period) ms      |
 | xrange min max             | Set the x axis range to (min,max)                            |
 | yrange min max             | Set the y axis range to (min,max)                            |
-| auto_x_range               | The x axis will resize itself to display every point         |
-| auto_y_range               | The y axis will resize itself to display every point         |
+| auto_xrange                | The x axis will resize itself to display every point         |
+| auto_yrange                | The y axis will resize itself to display every point         |
 | quit                       | Terminate the program                                        |
 
 Note : the default graph is numbered 0 so "plot 0.5 4" is equivalent to "plot 0 0.5 4" 
