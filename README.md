@@ -33,3 +33,7 @@ Since RTPlot uses Qt and Qt uses OpenGL, you may have to install the OpenGL deve
 ```
 sudo apt-get install mesa-common-dev
 ```
+
+# QCustomPlot
+
+The widget used to draw the plots is [QCustomPlot](http://www.qcustomplot.com/), RTPlot is mainly a wrapper for this widget.
