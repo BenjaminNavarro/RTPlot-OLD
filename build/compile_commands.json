@@ -1,0 +1,31 @@
+[
+{
+  "directory": "/home/idhuser/Prog/RTPlot/build",
+  "command": "/usr/bin/c++   -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -D_REENTRANT -D_THREAD_SAFE -Drtplot_lib_EXPORTS -I../include  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o src/CMakeFiles/rtplot-lib.dir/rtplot/Fl_plot.cpp.o -c /home/idhuser/Prog/RTPlot/src/rtplot/Fl_plot.cpp",
+  "file": "/home/idhuser/Prog/RTPlot/src/rtplot/Fl_plot.cpp"
+},
+
+{
+  "directory": "/home/idhuser/Prog/RTPlot/build",
+  "command": "/usr/bin/c++   -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -D_REENTRANT -D_THREAD_SAFE -Drtplot_lib_EXPORTS -I../include  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o src/CMakeFiles/rtplot-lib.dir/rtplot/inputparserthread.cpp.o -c /home/idhuser/Prog/RTPlot/src/rtplot/inputparserthread.cpp",
+  "file": "/home/idhuser/Prog/RTPlot/src/rtplot/inputparserthread.cpp"
+},
+
+{
+  "directory": "/home/idhuser/Prog/RTPlot/build",
+  "command": "/usr/bin/c++   -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -D_REENTRANT -D_THREAD_SAFE -Drtplot_lib_EXPORTS -I../include  -O3 -DNDEBUG -fPIC   -std=gnu++11 -o src/CMakeFiles/rtplot-lib.dir/rtplot/rtplot.cpp.o -c /home/idhuser/Prog/RTPlot/src/rtplot/rtplot.cpp",
+  "file": "/home/idhuser/Prog/RTPlot/src/rtplot/rtplot.cpp"
+},
+
+{
+  "directory": "/home/idhuser/Prog/RTPlot/build",
+  "command": "/usr/bin/c++    -I../include  -O3 -DNDEBUG   -std=gnu++14 -o apps/CMakeFiles/test_rtplot.dir/test_rtplot/test-rtplot.cpp.o -c /home/idhuser/Prog/RTPlot/apps/test_rtplot/test-rtplot.cpp",
+  "file": "/home/idhuser/Prog/RTPlot/apps/test_rtplot/test-rtplot.cpp"
+},
+
+{
+  "directory": "/home/idhuser/Prog/RTPlot/build",
+  "command": "/usr/bin/c++    -I../include  -O3 -DNDEBUG   -std=gnu++14 -o apps/CMakeFiles/rtplot.dir/rtplot/main.cpp.o -c /home/idhuser/Prog/RTPlot/apps/rtplot/main.cpp",
+  "file": "/home/idhuser/Prog/RTPlot/apps/rtplot/main.cpp"
+}
+]
