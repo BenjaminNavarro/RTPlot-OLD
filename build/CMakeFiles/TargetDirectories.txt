@@ -1,9 +1,0 @@
-/home/idhuser/Prog/RTPlot/build/CMakeFiles/rebuild_cache.dir
-/home/idhuser/Prog/RTPlot/build/CMakeFiles/edit_cache.dir
-/home/idhuser/Prog/RTPlot/build/src/CMakeFiles/rebuild_cache.dir
-/home/idhuser/Prog/RTPlot/build/src/CMakeFiles/edit_cache.dir
-/home/idhuser/Prog/RTPlot/build/src/CMakeFiles/rtplot-lib.dir
-/home/idhuser/Prog/RTPlot/build/apps/CMakeFiles/rebuild_cache.dir
-/home/idhuser/Prog/RTPlot/build/apps/CMakeFiles/edit_cache.dir
-/home/idhuser/Prog/RTPlot/build/apps/CMakeFiles/test_rtplot.dir
-/home/idhuser/Prog/RTPlot/build/apps/CMakeFiles/rtplot.dir

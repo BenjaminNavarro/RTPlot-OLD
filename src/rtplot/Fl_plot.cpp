@@ -249,7 +249,7 @@ void Fl_Plot::addPoint(int curve, float x, float y) {
 	ordered_lists_[curve].first.insert(x);
 	ordered_lists_[curve].second.insert(y);
 
-	if(curves_[curve].size() > max_points_) {
+	if(max_points_ > 0 and curves_[curve].size() > max_points_) {
 		removeFirstPoint(curve);
 	}
 
@@ -452,9 +452,11 @@ void Fl_Plot::setAutoYRange() {
 
 void Fl_Plot::setMaxPoints(int count) {
 	max_points_ = count;
-	for(auto& curve: curves_) {
-		while(curve.second.size() > max_points_) {
-			removeFirstPoint(curve.first);
+	if(max_points_ > 0) {
+		for(auto& curve: curves_) {
+			while(curve.second.size() > max_points_) {
+				removeFirstPoint(curve.first);
+			}
 		}
 	}
 }
