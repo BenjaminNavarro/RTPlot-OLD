@@ -56,3 +56,4 @@ On an Intel i7-6700HQ computer running archlinux (4.10.8 kernel), the `test_rtpl
 # TODO
  * Documentation
  * Subplots (multiple plots in the same window)
+ * Integration with Nanomsg
