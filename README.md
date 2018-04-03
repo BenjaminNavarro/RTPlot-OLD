@@ -1,7 +1,11 @@
+# DISCLAIMER
+
+This version is now deprecated and won't be maintained anymore. Please check https://github.com/BenjaminNavarro/rtplot for the current version.
+
 # RTPlot
 RTPlot is a FLTK based real time plotting solution. It has been developed to try to keep the CPU usage at the minimum so that you can feed it a large number of points in real time without impacting the rest of your system.
 
-An old Qt based version has been developed and is still available on the [Qt branch](https://github.com/BenjaminNavarro/RTPlot/tree/Qt) but it won't be maintained anymore. It is far less optimized that the current FLTK version.
+An old Qt based version has been developed and is still available on the [Qt branch](https://github.com/BenjaminNavarro/RTPlot-OLD/tree/Qt) but it won't be maintained anymore. It is far less optimized that the current FLTK version.
 
 # Usage
 
